@@ -3,9 +3,9 @@
         <div id="select">
             <h2>Select your language:</h2>
             <select name="lang" @change="onChange($event)" class="custom-select">
-                <option value="de-DE" selected>German</option>
+                <option value="de-DE" selected>Deutsch</option>
                 <option value="en-US">English</option>
-                <option value="es-ES">English</option>
+                <option value="es-ES">Español</option>
             </select>
         </div>
         <br>
